@@ -1,1 +1,1 @@
-# goit-ds-hw-01
+# goit-pycore-hw-08
